@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec8f42c52de5ac2d",
+        "id": "089d3fa8c32bff5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8df4ab1555a114b",
+            "id": "0878751078338396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Computed Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a7689381b9ba95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue/Directives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdeb01f095056a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue/Vue Router.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e66bede551c772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue/Watchers.md",
+                "file": "Vue/Event Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Computed Properties.md",
+                "file": "Vue/Event Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Computed Properties.md",
+                "file": "Vue/Event Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Computed Properties.md"
+                "file": "Vue/Event Handling.md"
               }
             }
           },
@@ -192,14 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8df4ab1555a114b",
+  "active": "0878751078338396",
   "lastOpenFiles": [
-    "Vue/Vue Router.md",
-    "Vue/Watchers.md",
-    "Vue/Computed Properties.md",
     "Vue/Directives.md",
-    "Vue/Components.md",
     "Vue/Core Topics to Learn Vue.md",
+    "Vue/Components.md",
+    "Vue/Computed Properties.md",
+    "Vue/Event Handling.md",
+    "Vue/Watchers.md",
+    "Vue/Vue Router.md",
     "Excalidraw/Drawing 2023-02-03 11.37.35.excalidraw.md",
     "Typescript/Tipage.md"
   ]
