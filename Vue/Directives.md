@@ -1,4 +1,4 @@
-[Oficial Documentation](https://vuejs.org/guide/essentials/event-handling.html)
+[Oficial Documentation](https://vuejs.org/api/built-in-directives.html#built-in-directives)
 
 
 # Here are some of the directives.
