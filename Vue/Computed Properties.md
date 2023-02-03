@@ -1,3 +1,5 @@
+[Official Documentation](https://vuejs.org/guide/essentials/computed.html)
+
 -  In Vue.js, a computed property is a function that returns a value that is dependent on one or more reactive data properties. Computed properties are cached based on their dependencies, so if none of their dependencies change, the computed value is returned from the cache, rather than re-computing the value.
 
 ## Here is an example of how you can use a computed property in Vue:
