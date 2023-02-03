@@ -19,7 +19,9 @@ The Vue Router also supports advanced features such as named routes, dynamic rou
 ## HOW TO USE VUE ROUTER
 
 1. Installation
-` npm install vue-router`
+``` 
+ npm install vue-router
+```
 
 2. Configuration
 
@@ -71,3 +73,4 @@ app.mount('#app')
 
 #
 In this example, we first import the Vue Router library and use it in our Vue 3 application. We then define two routes, each of which maps a URL path to a component. The `router-link` component is used to create links between routes, and the `router-view` component is used to render the component associated with the current route. When a user visits `/`, the `Home` component is displayed, and when they visit `/about`, the `About` component is displayed.
+
