@@ -1,3 +1,6 @@
+[Official Documentation](https://router.vuejs.org/guide/)
+
+
 Vue Router is a routing library for Vue.js that allows you to add routing to your single-page applications (SPAs). It works by mapping URLs to components, so that when a user visits a specific URL, the corresponding component is displayed.
 
 Here's a high-level overview of how it works:
