@@ -17,3 +17,5 @@
 [ ]  Mixins: Understanding how to use mixins to reuse logic between components.
     
 [ ]  Plugins: Understanding how to use plugins to extend the functionality of Vue, including how to write and use your own custom plugins
+
+[ ] Vuetify: Style Framework
