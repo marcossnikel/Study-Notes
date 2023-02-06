@@ -23,16 +23,36 @@
             "id": "1a206f31d6574638",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d2993eba9b26700",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Computed x Watch.md",
+                "file": "Vue/Vue Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6ed6c5429a13191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Props.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Computed x Watch.md",
+                "file": "Vue/Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Computed x Watch.md",
+                "file": "Vue/Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Computed x Watch.md"
+                "file": "Vue/Props.md"
               }
             }
           },
@@ -169,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a206f31d6574638",
+  "active": "b6ed6c5429a13191",
   "lastOpenFiles": [
+    "Vue/Vue Tools.md",
+    "Vue/Computed x Watch.md",
     "Vue/Computed Properties.md",
     "Vue/Event Handling.md",
     "Vue/Core Topics to Learn Vue.md",
@@ -178,7 +200,6 @@
     "Vue/Watchers.md",
     "Vue/Vue Router.md",
     "Vue/Components.md",
-    "Excalidraw/Drawing 2023-02-03 11.37.35.excalidraw.md",
-    "Typescript/Tipage.md"
+    "Excalidraw/Drawing 2023-02-03 11.37.35.excalidraw.md"
   ]
 }
