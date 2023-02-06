@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Props.md",
+                "file": "Vue/Vue Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Props.md",
+                "file": "Vue/Vue Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Props.md",
+                "file": "Vue/Vue Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Props.md"
+                "file": "Vue/Vue Router.md"
               }
             }
           },
@@ -192,14 +192,14 @@
   "active": "b6ed6c5429a13191",
   "lastOpenFiles": [
     "Vue/Vue Tools.md",
+    "Vue/Vue Router.md",
+    "Vue/Props.md",
     "Vue/Computed x Watch.md",
     "Vue/Computed Properties.md",
     "Vue/Event Handling.md",
     "Vue/Core Topics to Learn Vue.md",
     "Vue/Directives.md",
     "Vue/Watchers.md",
-    "Vue/Vue Router.md",
-    "Vue/Components.md",
-    "Excalidraw/Drawing 2023-02-03 11.37.35.excalidraw.md"
+    "Vue/Components.md"
   ]
 }
