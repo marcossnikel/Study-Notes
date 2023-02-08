@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Front-End Evolving\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13967392
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224498,
+  "scale": 1.000000000000012,
   "close": true
 }
