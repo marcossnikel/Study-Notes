@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Untitled.md",
+                "file": "Typescript/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a222a57cc6040d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Generics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Untitled.md",
+                "file": "Typescript/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Untitled.md",
+                "file": "Typescript/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Untitled.md"
+                "file": "Typescript/Generics.md"
               }
             }
           },
@@ -205,13 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a97a9809a60bad3",
+  "active": "69a222a57cc6040d",
   "lastOpenFiles": [
-    "Typescript/Interface.md",
-    "Typescript/Tipage.md",
+    "Typescript/Overview.md",
     "Typescript/Types.md",
+    "Typescript/Tipage.md",
+    "Typescript/Interface.md",
     "Typescript/Typescript no React.md",
-    "Typescript/Untitled.md",
     "Vue/Slots.md",
     "Front-End Evolving/Prop Drililng.md",
     "Vue/Emitting Custom Events.md",
