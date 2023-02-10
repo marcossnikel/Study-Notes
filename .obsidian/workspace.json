@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36eaf660ff9a94db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b55c9c576d6b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Tipage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34053e95b4e3d15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Typescript no React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a97a9809a60bad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Slots.md",
+                "file": "Typescript/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Slots.md",
+                "file": "Typescript/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Slots.md"
+                "file": "Typescript/Untitled.md"
               }
             }
           },
@@ -156,17 +205,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc63a0f161d691de",
+  "active": "3a97a9809a60bad3",
   "lastOpenFiles": [
+    "Typescript/Interface.md",
+    "Typescript/Tipage.md",
+    "Typescript/Types.md",
+    "Typescript/Typescript no React.md",
+    "Typescript/Untitled.md",
+    "Vue/Slots.md",
     "Front-End Evolving/Prop Drililng.md",
     "Vue/Emitting Custom Events.md",
     "Vue/Props.md",
-    "Vue/Watchers.md",
-    "Vue/Vue Tools.md",
-    "Vue/Vue Router.md",
-    "Vue/Progressive Enhancement.md",
-    "Vue/My Vue Repos.md",
-    "Vue/Event Handling.md",
-    "Vue/Directives.md"
+    "Vue/Watchers.md"
   ]
 }
