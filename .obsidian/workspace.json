@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41e4896feb3bee4e",
+        "id": "d065eb816ee25c13",
         "type": "tabs",
         "children": [
           {
-            "id": "bc63a0f161d691de",
+            "id": "96974300f619ed28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Slots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36eaf660ff9a94db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57b55c9c576d6b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Tipage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34053e95b4e3d15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Typescript no React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a97a9809a60bad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a222a57cc6040d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Generics.md",
+                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Generics.md",
+                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Generics.md",
+                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Generics.md"
+                "file": "Big Tech/algoexpert-questions/Node Depths/README.md"
               }
             }
           },
@@ -217,17 +156,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69a222a57cc6040d",
+  "active": "96974300f619ed28",
   "lastOpenFiles": [
-    "Typescript/Overview.md",
-    "Typescript/Types.md",
-    "Typescript/Tipage.md",
-    "Typescript/Interface.md",
-    "Typescript/Typescript no React.md",
-    "Vue/Slots.md",
+    "Big Tech/algoexpert-questions/Non-Constructible Change/algorithm.md",
+    "Big Tech/algoexpert-questions/Branch Sums/README.md",
     "Front-End Evolving/Prop Drililng.md",
-    "Vue/Emitting Custom Events.md",
     "Vue/Props.md",
+    "Vue/Slots.md",
+    "Vue/Computed x Watch.md",
+    "Vue/Core Topics to Learn Vue.md",
+    "Vue/Directives.md",
+    "Vue/Components.md",
     "Vue/Watchers.md"
   ]
 }
