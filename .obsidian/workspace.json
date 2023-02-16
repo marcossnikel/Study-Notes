@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "469226cc2b3bea0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Tech Journey/README.MD",
+                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Tech Journey/README.MD",
+                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Tech Journey/README.MD"
+                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96974300f619ed28",
+  "active": "469226cc2b3bea0f",
   "lastOpenFiles": [
+    "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
+    "Big Tech Journey/README.MD",
     "Big Tech Journey/Leet Code Questions/83. Remove Duplicates from Sorted List/README.md",
     "Big Tech Journey/Leet Code Questions/1. Two Sum/README.md",
     "Big Tech Journey/Algo Expert Questions/Tournament Winner/README.md",
@@ -165,8 +180,6 @@
     "Big Tech Journey/Algo Expert Questions/Reverse Linked List - do/README.md",
     "Big Tech Journey/Algo Expert Questions/Remove Duplicates From Linked List - do/README.md",
     "Big Tech Journey/Algo Expert Questions/Non-Constructible Change/README.md",
-    "Big Tech Journey/Algo Expert Questions/Node Depths/README.md",
-    "Big Tech Journey/Algo Expert Questions/Insertion Sort - do/README.md",
-    "Big Tech Journey/Algo Expert Questions/Find Closest Value In BST/README.md"
+    "Big Tech Journey/Algo Expert Questions/Node Depths/README.md"
   ]
 }
