@@ -23,12 +23,8 @@
             "id": "469226cc2b3bea0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "469226cc2b3bea0f",
+  "active": "c8dd04b2f0dc0f42",
   "lastOpenFiles": [
     "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
     "Big Tech Journey/README.MD",
