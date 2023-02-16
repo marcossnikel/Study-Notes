@@ -1,13 +1,13 @@
 
 
-# Depth First Search `:rocket:`
+# Depth First Search :rocket:
 
 sibling of *breath first search*
 
-Considered an **easy algorithm** `:heavy_check_mark:`
+Considered an **easy algorithm** :heavy_check_mark:
 
 
-:: Really Important to know how to implement. `:zap:`
+:: Really Important to know how to implement. :zap:
 
 
 
@@ -15,7 +15,7 @@ Considered an **easy algorithm** `:heavy_check_mark:`
 
 - graph could be represented as an tree like data structure with a bunch of nodes, and each node has a **name** that is an letter in the alfabet and optionally he can have an child node
 
-![[Pasted image 20230216193501.png]]
+![Graph](/Images/DPS%20Support.png)
 
 
 :: the goal is **treverse the graph** and as we traverse , we put the names in an array and return an array.
