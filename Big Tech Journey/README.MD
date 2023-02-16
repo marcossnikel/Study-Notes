@@ -7,3 +7,5 @@
 -> leetcode-questions : questions that i solved at leetcode
 
 -> in the file "pythonsupport" i have an material to suport me with basic sintax in python.
+
+goal 16/02 :::/ improve this document 
