@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
+                "file": "Big Tech Journey/README.MD",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "b3c1a42c77b8a9ee",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
+                "file": "Big Tech Journey/README.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Tech/algoexpert-questions/Node Depths/README.md",
+                "file": "Big Tech Journey/README.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Tech/algoexpert-questions/Node Depths/README.md"
+                "file": "Big Tech Journey/README.MD"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "96974300f619ed28",
   "lastOpenFiles": [
-    "Big Tech/algoexpert-questions/Non-Constructible Change/algorithm.md",
-    "Big Tech/algoexpert-questions/Branch Sums/README.md",
-    "Front-End Evolving/Prop Drililng.md",
-    "Vue/Props.md",
-    "Vue/Slots.md",
-    "Vue/Computed x Watch.md",
-    "Vue/Core Topics to Learn Vue.md",
-    "Vue/Directives.md",
-    "Vue/Components.md",
-    "Vue/Watchers.md"
+    "Big Tech Journey/Leet Code Questions/83. Remove Duplicates from Sorted List/README.md",
+    "Big Tech Journey/Leet Code Questions/1. Two Sum/README.md",
+    "Big Tech Journey/Algo Expert Questions/Tournament Winner/README.md",
+    "Big Tech Journey/Algo Expert Questions/Sorted Squared Array/README.md",
+    "Big Tech Journey/Algo Expert Questions/Reverse Linked List - do/README.md",
+    "Big Tech Journey/Algo Expert Questions/Remove Duplicates From Linked List - do/README.md",
+    "Big Tech Journey/Algo Expert Questions/Non-Constructible Change/README.md",
+    "Big Tech Journey/Algo Expert Questions/Node Depths/README.md",
+    "Big Tech Journey/Algo Expert Questions/Insertion Sort - do/README.md",
+    "Big Tech Journey/Algo Expert Questions/Find Closest Value In BST/README.md"
   ]
 }

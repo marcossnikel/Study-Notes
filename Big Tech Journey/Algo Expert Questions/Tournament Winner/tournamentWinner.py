@@ -48,30 +48,7 @@
 
 # tournamentWinner(competitionsArr,resultsArr)
 
-def tournamentWinner(competitions, results):
-    HOME_TEAM_WON = 1
-    currentBestTeam = ""
-    scores = {currentBestTeam: 0}
 
-    for index,competition in enumerate(competitions):
-        result = results[index]
-        homeTeam, awayTeam = competition
-        #array[home,away]
-        winningTeam = homeTeam if result == HOME_TEAM_WON else awayTeam
-
-        updateScores(winningTeam,3,scores)
-
-        if scores[winningTeam] > scores[currentBestTeam]:
-            currentBestTeam = winningTeam
-    
-    return currentBestTeam
-
-
-def updateScores(team,points,scores):
-    if team not in scores:
-        scores[team] = 0
-
-    scores[team] += points
 
 #O(N) Time -> Number of competitions
 #O(K) Space -> Numer of teams.
