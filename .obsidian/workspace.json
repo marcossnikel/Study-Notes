@@ -23,8 +23,12 @@
             "id": "469226cc2b3bea0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md"
+              }
             }
           },
           {
@@ -161,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8dd04b2f0dc0f42",
+  "active": "469226cc2b3bea0f",
   "lastOpenFiles": [
+    "Pasted image 20230216193501.png",
     "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
     "Big Tech Journey/README.MD",
     "Big Tech Journey/Leet Code Questions/83. Remove Duplicates from Sorted List/README.md",
@@ -171,7 +180,6 @@
     "Big Tech Journey/Algo Expert Questions/Sorted Squared Array/README.md",
     "Big Tech Journey/Algo Expert Questions/Reverse Linked List - do/README.md",
     "Big Tech Journey/Algo Expert Questions/Remove Duplicates From Linked List - do/README.md",
-    "Big Tech Journey/Algo Expert Questions/Non-Constructible Change/README.md",
-    "Big Tech Journey/Algo Expert Questions/Node Depths/README.md"
+    "Big Tech Journey/Algo Expert Questions/Non-Constructible Change/README.md"
   ]
 }
