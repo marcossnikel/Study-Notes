@@ -1,5 +1,21 @@
 # Branch Sums 🌲⚙
 
+
+# Write a function that takes in a Binary Tree and returns a list of its branch sums ordered from leftmost branch sum to rightmost branch sum.  
+
+## A branch sum is the sum of all values in a Binary Tree branch. A Binary Tree branch is a path of nodes in a tree that starts at the root node and ends at any leaf node.  
+
+### Each BinaryTree node has an integer value, a left child node, and a right child node. Children nodes can either be BinaryTree nodes themselves or None / null.
+
+
+
+
+
+
+
+
+
+
 ### Topic : TREE
 
 #### Notes:
@@ -30,3 +46,7 @@
 **Time :** O(N) *N is the total of nodes in the binary tree*
 
 **Space :** O(N) *Complicated -> afected by the list of branch sums and also effect by the recursive nature of the solution 'callstack'*
+
+```python
+
+```
