@@ -48,5 +48,36 @@
 **Space :** O(N) *Complicated -> afected by the list of branch sums and also effect by the recursive nature of the solution 'callstack'*
 
 ```python
+# This is the class of the input root. Do not edit it.
+class BinaryTree:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+
+
+def branchSums(root):
+    resultArray = []
+    calcBranch(root,0,resultArray)
+    return resultArray
+
+
+def calcBranch (node,runningSum,resultArray):
+
+    if node is None:
+        return
+    
+    newSum = runningSum + node.value
+
+    if not node.left and not node.right:
+        resultArray.append(newSum)
+    
+    calcBranch(node.left,newSum,resultArray)
+    calcBranch(node.right,newSum,resultArray)
+    
+
+#complexity
+# :: time => o(n)
+# :: space => o(n)
 
 ```
