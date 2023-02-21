@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d065eb816ee25c13",
+        "id": "19fb13785066c733",
         "type": "tabs",
         "children": [
           {
-            "id": "96974300f619ed28",
+            "id": "b4676edae3a30a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Tech Journey/README.MD",
+                "file": "Big Tech Journey/Algo Expert Questions/Tournament Winner/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "469226cc2b3bea0f",
+            "id": "f6ffaf0eb9546760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
+                "file": "Big Tech Journey/Estrutura de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
+                "file": "Big Tech Journey/Estrutura de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
+                "file": "Big Tech Journey/Estrutura de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md"
+                "file": "Big Tech Journey/Estrutura de Dados.md"
               }
             }
           },
@@ -169,17 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "469226cc2b3bea0f",
+  "active": "f6ffaf0eb9546760",
   "lastOpenFiles": [
-    "Pasted image 20230216193501.png",
-    "Big Tech Journey/Conceptual Algorithms/Depth First Search/README.md",
-    "Big Tech Journey/README.MD",
-    "Big Tech Journey/Leet Code Questions/83. Remove Duplicates from Sorted List/README.md",
-    "Big Tech Journey/Leet Code Questions/1. Two Sum/README.md",
     "Big Tech Journey/Algo Expert Questions/Tournament Winner/README.md",
     "Big Tech Journey/Algo Expert Questions/Sorted Squared Array/README.md",
-    "Big Tech Journey/Algo Expert Questions/Reverse Linked List - do/README.md",
-    "Big Tech Journey/Algo Expert Questions/Remove Duplicates From Linked List - do/README.md",
-    "Big Tech Journey/Algo Expert Questions/Non-Constructible Change/README.md"
+    "Big Tech Journey/Algo Expert Questions/Find Closest Value In BST/README.md",
+    "Web Concepts/GraphQL/Random Notes.md",
+    "Web Concepts/Entities.md",
+    "Web Concepts/GraphQL/Conceptual Overview.md",
+    "Web Concepts/Prop Drililng.md",
+    "Images/DPS Support.png",
+    "Big Tech Journey/Algo Expert Questions/Branch Sums - do/README.md",
+    "Pasted image 20230216193501.png"
   ]
 }
